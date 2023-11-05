@@ -5,6 +5,12 @@
 		},
 		{
 			"path": "../../../Downloads/project1 2/src"
+		},
+		{
+			"path": "../../../Downloads/project1 2/public"
+		},
+		{
+			"path": "../../../Downloads/project1 2/node_modules"
 		}
 	],
 	"settings": {}
