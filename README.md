@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+# OC Eats
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to OC Eats - the ultimate restaurant guide for Orange County! Our platform offers personalized restaurant suggestions, complete with user ratings, operational hours, and a vivid gallery of restaurant images. Whether you're craving Italian, yearning for Yakiniku, or searching for the best seafood spot, OC Eats is your go-to guide for the culinary scene in Orange County.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **Personalized Suggestions**: Find restaurants tailored to your taste.
+- **Ratings System**: Trustworthy reviews and ratings from the community.
+- **Operational Hours**: Check when restaurants open and close.
+- **Photo Gallery**: Visual previews of restaurants and their dishes.
+- **Cuisine Categories**: Explore restaurants split into various cuisine types.
 
-### `npm start`
+## Getting Started
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Prerequisites
 
-### `npm test`
+What things you need to install the software and how to install them:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```
+Give examples
+```
 
-### `npm run build`
+### Installing
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+A step-by-step series of examples that tell you how to get a development environment running:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+# Clone this repository
+git clone https://github.com/yourusername/OC-Eats.git
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Navigate to the project directory
+cd OC-Eats
 
-### `npm run eject`
+# Install dependencies
+npm install
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# Start the application
+npm start
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+The app will be running on `http://localhost:3000`.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Usage
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+To use OC Eats, simply navigate through the app:
 
-## Learn More
+1. Choose a cuisine category.
+2. Browse through the list of restaurants.
+3. Click on a restaurant to view detailed information, including ratings, hours, and photos.
+4. Rate the restaurants you've visited and add your own photos to the gallery.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Contributing
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+If you'd like to contribute to OC Eats, please fork the repository and create a pull request, or open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
 
-### Code Splitting
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## License
 
-### Analyzing the Bundle Size
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Acknowledgments
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc
